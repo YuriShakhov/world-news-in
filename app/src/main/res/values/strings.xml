@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">LearnByEar00</string>
+    <string name="app_name">WorldNewsIn</string>
     <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
 </resources>
